@@ -1,0 +1,53 @@
+.container{
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background: dimgray;
+}
+
+.color-picker-container{
+    text-align: center;
+    display: inline;
+    color: white;
+}
+
+.brushsize-container{
+    line-height: 50px;
+    display: inline;
+    color: white;
+    margin-left: 12px;
+}
+
+.tools-section{
+    text-align: center;
+}
+
+.puck{
+    text-align: center;
+    color: white;
+    height: 100px;
+    width: 100px;
+    border-radius: ss0%;
+    line-height: 170px;
+    background-color: mediumturquoise;
+}
+
+.board-container{
+    width: 90%;
+    height: 85%;
+    margin: auto;
+    margin-top: 1%;
+    background: rgb(131, 131, 131);
+}
+
+.videocontainer{
+    border-radius: 50%;
+    text-align: center;
+    color: white;
+    height: 100px;
+    width: 100px;
+}
+
+.startstream{
+    margin-left: 75px;
+}
